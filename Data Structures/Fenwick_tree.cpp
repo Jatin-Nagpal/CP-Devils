@@ -1,8 +1,9 @@
+#define SZ 100005 //Check the limits Dummy
 #define TP int
-int n=100005;
-TP bit[100005]; //Check the limits Dummy
+int n=SZ;
+TP bit[SZ];
 TP Func(TP a,TP b) {
-	return (a+b);
+	return (a+b); //Change this function only
 }
 TP sum(int r) {
 	TP ret = 0;
