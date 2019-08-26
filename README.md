@@ -6,3 +6,4 @@ This repo contains some implementations from some basic to highly advanced topic
 # Contributors
 - [Jatin Nagpal](https://github.com/Jatin-Nagpal)
 - [Anany Sharma](https://github.com/sharma235)
+- [Anant Kumar Mittal](https://github.com/coderanant)
