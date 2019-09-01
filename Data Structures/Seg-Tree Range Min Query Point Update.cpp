@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define f(i,x,n) for(int i=x;i<n;i++)
-#define mod 100000007
 
 // Range Minimum Query and Point Update value
+#define MOD 100000007 //Check this first
 #define N 200000 //Check the limits dummy
 int bit[4*N+10];
 int func(int a,int b)
@@ -13,7 +13,7 @@ int func(int a,int b)
 void init()
 {
 	f(i,0,4*N+5)
-		bit[i]=mod; //Check this carefully
+		bit[i]=MOD; //Check this carefully
 }
 int upd(int i,int j, int index,int val,int node)
 {
@@ -32,10 +32,10 @@ int qry(int i,int j,int l,int r,int node)
 		if(l<=i&&r>=j)
 			return bit[node];
 		else
-			return mod;
+			return MOD;
 	}
 	else if(l>j||r<i)
-		return mod;
+		return MOD;
 	else if(l<=i&&r>=j)
 		return bit[node];
 	int mid=(i+j)/2;
