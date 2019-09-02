@@ -29,7 +29,7 @@ This repo contains some implementations from some basic to highly advanced topic
 - [ ] Biconnected Components, Finding Articulation points and Bridges
 - [ ] Bellman Ford
 - [ ] Generalized Suffix Tree
-- [ ] LCA (Binary Lifting)
+- [x] LCA (Binary Lifting)
 - [ ] Find loop in a graph
 - [ ] Dijiktra's
 - [ ] Heavy Light Decomposition
