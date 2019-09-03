@@ -43,6 +43,9 @@ This repo contains some implementations from some basic to highly advanced topic
 - [ ] Fast Fourier Transform
 
 # Contributors
-- [Jatin Nagpal](https://github.com/Jatin-Nagpal)
+- Jatin Nagpal &nbsp; [[Github](https://github.com/jatin-nagpal)
+&nbsp; [Codechef](https://www.codechef.com/users/nagpaljatin141)
+&nbsp; [Codeforces](https://codeforces.com/profile/nagpaljatin1411)]
+<!-- - [Jatin Nagpal](https://github.com/Jatin-Nagpal) -->
 - [Anany Sharma](https://github.com/sharma235)
 - [Anant Kumar Mittal](https://github.com/coderanant)
