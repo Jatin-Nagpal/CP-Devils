@@ -19,7 +19,7 @@ This repo contains some implementations from some basic to highly advanced topic
 - [x] Convex Hull
 - [ ] Dynamic Convex Hull
 - [ ] Convex Hull Trick
-- [ ] Hashing with all 4 types of update
+- [x] Hashing with all 4 types of update
 - [ ] KMP
 - [ ] Prefix Function
 - [ ] Z-Function
